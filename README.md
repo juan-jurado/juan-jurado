@@ -7,6 +7,13 @@ Visitor Badge
 
 https://img.shields.io/github/stars/juan-jurado?style=social
 
+
+
+![GitHub User's stars](https://img.shields.io/github/stars/juan-jurado?label=alola&style=social)
+
+
+
+
 <!--
 **juan-jurado/juan-jurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
