@@ -3,6 +3,13 @@
 Visitor Badge
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
+
+${your.username}.${your.repo.id}
+
+juan-jurado.juan-jurado
+
+
 <!--
 **juan-jurado/juan-jurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
