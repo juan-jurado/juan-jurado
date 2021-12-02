@@ -7,7 +7,8 @@
 <img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="10">
 
 
-
+  ---
+  
 ### I'm Entrepreneur, Developer, and a Teacher!
 
 I'm EE (Electrical Engineer) with strong background on machine learning and Deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. 
