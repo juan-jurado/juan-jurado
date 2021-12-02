@@ -33,6 +33,13 @@ Here are some ideas to get you started:
 ?style=plastic&logo=appveyor
 
 
+gif de señor matematico
+
+<img src="https://imgur.com/DRBKEBi" width="30px">
+view rawgif hosted with ❤ by GitHub
+
+
+
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJuanJuradoP)
 
