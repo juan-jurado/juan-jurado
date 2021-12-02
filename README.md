@@ -6,7 +6,7 @@
 
 <img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="10">
 
-
+[![Stargazers repo roster for @juan-jurado/juan-jurado](https://reporoster.com/stars/juan-jurado/juan-jurado)](https://github.com/juan-jurado/juan-jurado/stargazers)
   ---
   
 ### I'm Entrepreneur, Developer, and a Teacher!
