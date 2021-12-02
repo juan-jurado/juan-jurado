@@ -10,16 +10,14 @@
 
 ### I'm Entrepreneur, Developer, and a Teacher!
 
-Bachelor's degree in electrical engineering (EE) at Pontificia Universidad Javeriana, Bogota, Colombia. Actually, he is an IoT Engineer at Globant, working on integration and developing 4.0 technologies such as real-time video analytics using Deepstream (NVIDIA). Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS. Experience in the hardware-software interface (I2C, UART, Analog signals, USB). High interest in robotics, artificial intelligence, hardware-software. Experience using Linux OS. I do not want to maintain the status quo. ¡Let’s create something great!.
+I'm EE (Electrical Engineer) with strong background on machine learning and Deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. 
+
+
+Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover. 
+I do not want to maintain the status quo. ¡Let’s create something great!.
 
 
 
-<br />
-
-As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #ImpactAssessment #LeadershipEngagement #ManagingMeetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
-
-
-<br />
 
 
 
@@ -115,14 +113,17 @@ https://img.shields.io/github/stars/juan-jurado?style=social
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on real-time video analysis using Deepstream and AI models using CNNs and Transformers.
+- 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
+- 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
+- 🤔 I’m looking for help with IDK
+- 💬 Ask me about 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding. 
+
+Let's connect (flecha de abajo emoji)
+
 -->
 
 
