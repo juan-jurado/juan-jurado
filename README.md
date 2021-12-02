@@ -1,4 +1,6 @@
-### Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin] 
+### Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin] 	🤖
+💙
+
 
 Visitor Badge
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
