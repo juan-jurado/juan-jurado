@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 gif de señor matematico
 
-<img src="https://imgur.com/DRBKEBi" width="30px">
+<img src="https://imgur.com/DRBKEBi">
 view rawgif hosted with ❤ by GitHub
 
 
