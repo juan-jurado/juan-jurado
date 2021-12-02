@@ -1,4 +1,29 @@
-### Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin] 	🤖
+### Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin]
+
+Internet of Thing Edge Engineer at Globant
+
+
+
+https://www.globant.com/
+
+https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png
+
+
+
+Bachelor's degree in electrical engineering (EE) at Pontificia Universidad Javeriana, Bogota, Colombia. Actually, he is an IoT Engineer at Globant, working on integration and developing 4.0 technologies such as real-time video analytics using Deepstream (NVIDIA). Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS. Experience in the hardware-software interface (I2C, UART, Analog signals, USB). High interest in robotics, artificial intelligence, hardware-software. Experience using Linux OS. I do not want to maintain the status quo. ¡Let’s create something great!.
+
+
+
+<br />
+
+As Sotfware Product Manager: #Analytical #Assertive #Assessingoutcomes #Assessingprogress#AttentionToDetail #ConflictResolution #Collaborative #Coordination #Communication #Development #Evaluation #Executing plans #ImpactAssessment #LeadershipEngagement #ManagingMeetings #ManagingClientExpectations #ManagingConflicts #ManagingRelationshipsWithStakeholders #ManagingVendors #MeetingDeadlines #Monitoring #Multitasking #Planning #Prioritizing #ProblemSolving #ProcessDevelopment #ProcessImprovement #ProjectCoordination #ProjectImplementation #ProjectInitialization #ProjectPlanning #ProjectReporting #QualityControl #RiskAssessment #RiskManagement #SolutionDevelopment #StrategicPlanning #StrongInterpersonalSkills #StrongVerbalCommunication #StrongWrittenCommunication
+
+
+<br />
+
+
+
+🤖
 💙
 💯
 💬
