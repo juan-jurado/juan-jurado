@@ -33,41 +33,13 @@ HOLA
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
-<!-- BLOG-POST-LIST:START -->
-Hello this is a test
 
-<!-- BLOG-POST-LIST:END --> 
+### **Stats and Tools**:
 
-
-
-<!-- Pinned Repositories -- >
-
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/braydoncoyer/ng-limeade">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/braydoncoyer/officeapi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-
-
-<!-- GitHub Stats -- >
-
-<a href="https://github.com/juan-jurado">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/juan-jurado">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="juan-jurado's GitHub Stats" />
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JohnBetaCode&count_private=true&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBetaCode&layout=compact&theme=onedark" />
+</p>
 
 
 HOLA
