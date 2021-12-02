@@ -37,8 +37,8 @@ HOLA
 ### **Stats and Tools**:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=JohnBetaCode&count_private=true&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnBetaCode&layout=compact&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api?username=juan-jurado&count_private=true&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
 </p>
 
 
