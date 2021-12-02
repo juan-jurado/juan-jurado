@@ -17,6 +17,10 @@ Experience as a self-driving cars engineer and embedded systems engineer at Kiwi
 I do not want to maintain the status quo. ¡Let’s create something great!.
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+
+
+
 
 
 
@@ -82,6 +86,7 @@ Rviz
 Opencv
 FFMPEG
 DOCKER
+
 
 Plataformas:
 Nvidia Jetson
