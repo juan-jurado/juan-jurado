@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin]
 
-Internet of Thing Edge Engineer at Globant
+### Internet of Things Edge Engineer at [Globant][Globant]
 
 
 
-https://www.globant.com/
+<img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="1200">
 
-https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png
+
 
 ### I'm Entrepreneur, Developer, and a Teacher!
 
