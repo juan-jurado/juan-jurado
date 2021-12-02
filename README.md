@@ -42,6 +42,34 @@
 🇨🇴 Flag: Colombia
 
 
+Yolo
+TensorFlow
+Deepstream
+Nvidia Jetson
+Github
+Gitea
+VSCODE
+Python
+C++
+Jira
+Ros
+Ros2
+Gazebo
+Rviz
+Opencv
+FFMPEG
+DOCKER
+
+Plataformas:
+Nvidia Jetson
+Raspberry
+IntelReal sense
+Slamtec
+Balena
+Azure IoT
+AWS
+Microsoft Azure
+
 
 Visitor Badge
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
