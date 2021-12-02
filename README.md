@@ -1,5 +1,46 @@
 ### Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin] 	🤖
 💙
+💯
+💬
+👁️‍🗨️
+🙌
+🦾
+🧠
+👀
+👨‍🎓
+👨‍🌾
+👨‍🔧
+🧑‍💻
+🦸
+🏊
+🚴
+🚵
+🧘
+🐶
+🐕
+🦮
+🐈 cat
+🐱 
+🐈‍⬛
+🌿
+🌲
+🪴 Potted Plant
+🍕 Pizza
+🍪 Cookie
+🍷 Wine Glass
+🏍️ Motorcycle
+🌈 Rainbow
+🏆 Trophy
+🎖️ Military Medal
+🥇 1st Place Medal
+🎸 Guitar
+🎹 Musical Keyboard
+🎧 Headphone
+💻 Laptop
+⚙️ Gear
+🔝 Top Arrow
+🇨🇴 Flag: Colombia
+
 
 
 Visitor Badge
