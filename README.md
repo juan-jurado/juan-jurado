@@ -32,6 +32,17 @@ HOLA
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
+
+
+
+
+[youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
+[globant]: https://www.globant.com/
+[twitter]: https://twitter.com/JuanJuradoP
+[instagram]: https://www.instagram.com/juanjuradop/?hl=en
+[medium]: https://juanjuradop.medium.com/
+[linkedin]: https://www.linkedin.com/in/juanfjuradop/
 
 
 ### **Stats and Tools**:
@@ -121,8 +132,6 @@ AWS
 Microsoft Azure
 
 
-Visitor Badge
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
