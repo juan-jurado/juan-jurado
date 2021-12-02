@@ -4,7 +4,7 @@
 
 
 
-<img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="1200">
+<img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="10">
 
 
 
