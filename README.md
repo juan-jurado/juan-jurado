@@ -16,11 +16,13 @@
 
 <br />
 - 🔭 I'm currently working at [Globant][Globant] as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
+<br />
 - 🌱 I'm currently learning low-level code (C++14) to improve my current robotic skills.
+<br />
 - 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
+<br />
 - ⚡ Fun fact: I used to play guitar🎸 ,drums, and piano🎹 - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music🎧 while I was coding. I'm Pet-friendly (Father of two cats and two dogs).🐕🦮🐈🐈‍⬛ Also, I swim🏊, mountain bike🚵,, and travel around the world in my motorcycle.🏍️
 </div>
-
 
 <br />
 
