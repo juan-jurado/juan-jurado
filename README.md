@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin]
 
-### Internet of Things Edge Engineer at [Globant][Globant] <img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="150">
+### Internet of Things Edge Engineer at [Globant][Globant] <img src="https://takingcare.globant.com/ES/assets/images/globant-lightbg-color-2.png" alt="kiwi_banner" width="80">
 
 [![Stargazers repo roster for @juan-jurado/juan-jurado](https://reporoster.com/stars/juan-jurado)](https://github.com/juan-jurado/juan-jurado/stargazers)
   ---
