@@ -55,6 +55,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 ### Platforms
 
 <br />
+
 [<img align="left" alt="nvidia" height="30px" src="https://miro.medium.com/max/700/1*46tz-SDJRkv16vXdz0TAWA.png" />][nvidia]
 [<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
 [<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
@@ -66,6 +67,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [nvidia]: https://www.nvidia.com/es-la/
 [slamtec]: https://www.slamtec.com/en/
 [raspi]: https://www.raspberrypi.org/
+
 <br />
 
 Plataformas:
