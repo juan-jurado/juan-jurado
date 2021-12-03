@@ -17,7 +17,8 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 - 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 - ⚡ Fun fact: I used to play guitar, drums, and piano - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music while I was coding. I'm Pet-friendly (Father of two cats and two dogs). 
 
-### **Let's connect!**
+
+### Let's connect!
 
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
@@ -46,10 +47,9 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
 [<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
 [<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
-
 <br />
 
-### **Platforms**
+### Platforms
 
 <br />
 [<img align="left" alt="nvidia" height="30px" src="https://miro.medium.com/max/700/1*46tz-SDJRkv16vXdz0TAWA.png" />][nvidia]
@@ -156,6 +156,6 @@ Microsoft Azure
 [deepstream]: https://developer.nvidia.com/deepstream-sdk
 [gitea]: https://gitea.io/en-us/
 
-[yolo]: https://www.atlassian.com
+[yolo]: https://pjreddie.com/darknet/yolo/
 [keras]: https://keras.io/
 [tensorflow]: https://www.tensorflow.org/
