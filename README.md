@@ -6,10 +6,10 @@
 
   ---
   
-## I'm Entrepreneur, Developer, and a Teacher!
+## 💻 I'm an engineer, developer, and entrepreneur!
 
-I'm EE (Electrical Engineer) with strong background on machine learning and Deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
-I do not want to maintain the status quo. ¡Let’s create something great!.
+I'm EE (Electrical Engineer) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
+I do not want to maintain the status quo. ¡ Let's create something great!.
 
 ### **Stats and Tools**:
 
@@ -57,7 +57,7 @@ I do not want to maintain the status quo. ¡Let’s create something great!.
 🎸 Guitar
 🎹 Musical Keyboard
 🎧 Headphone
-💻 Laptop
+ Laptop
 ⚙️ Gear
 🔝 Top Arrow
 🇨🇴 Flag: Colombia
@@ -97,14 +97,16 @@ Microsoft Azure
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working at [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
 - 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
 - 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 - 🤔 I’m looking for help with IDK
 - 💬 Ask me about 
-- 📫 How to reach me:
+- ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding.
+
+
+Let's connect!
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram-name](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
@@ -112,15 +114,6 @@ Here are some ideas to get you started:
 [![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding. 
-
-Let's connect (flecha de abajo emoji)
-
-
-
-
-Made with ❤
 <!-- ---------------------------------------------------------------------- -->
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
 [globant]: https://www.globant.com/
