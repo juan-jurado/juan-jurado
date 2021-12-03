@@ -17,6 +17,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 - 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 - ⚡ Fun fact: I used to play guitar, drums, and piano - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music while I was coding. I'm Pet-friendly (Father of two cats and two dogs). 
 
+
   ---
 ### Let's connect!
 
@@ -79,9 +80,9 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 ### **Stats and Tools**:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=juan-jurado&count_private=true&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
+
 </p>
 
 
