@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin]
-Internet of Things Edge Engineer at [Globant][Globant]
+### Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin]
 ![GitHub User's stars](https://img.shields.io/github/stars/juan-jurado?label=Start&style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin]
@@ -7,7 +6,7 @@ Internet of Things Edge Engineer at [Globant][Globant]
 
   ---
   
-### I'm Entrepreneur, Developer, and a Teacher!
+## I'm Entrepreneur, Developer, and a Teacher!
 
 I'm EE (Electrical Engineer) with strong background on machine learning and Deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
 I do not want to maintain the status quo. ¡Let’s create something great!.
@@ -108,7 +107,7 @@ Microsoft Azure
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on real-time video analysis using Deepstream and AI models using CNNs and Transformers.
+- 🔭 I’m currently working at Globant [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
 - 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
 - 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 - 🤔 I’m looking for help with IDK
