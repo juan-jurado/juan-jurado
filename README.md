@@ -108,11 +108,9 @@ Microsoft Azure
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-https://img.shields.io/github/stars/juan-jurado?style=social
 
 
-
-![GitHub User's stars](https://img.shields.io/github/stars/juan-jurado?label=alola&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/juan-jurado?label=Start&style=social)
 
 
 
@@ -135,13 +133,6 @@ Let's connect (flecha de abajo emoji)
 
 -->
 
-
-?style=plastic&logo=appveyor
-
-
-gif de señor matematico
-
-<img src="https://imgur.com/DRBKEBi">
 view rawgif hosted with ❤ by GitHub
 
 ❤️ ❤️ ❤️  
