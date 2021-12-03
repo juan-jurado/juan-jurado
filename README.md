@@ -21,7 +21,6 @@ I do not want to maintain the status quo. ¡Let’s create something great!.
 [![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 
-[gmail]: mailto:prueba@prueba.com
 
 
 ### **Stats and Tools**:
@@ -145,20 +144,12 @@ gif de señor matematico
 <img src="https://imgur.com/DRBKEBi">
 view rawgif hosted with ❤ by GitHub
 
-
-
-
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FJuanJuradoP)
-
+❤️ ❤️ ❤️  
 <!-- ---------------------------------------------------------------------- -->
-
-
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
 [globant]: https://www.globant.com/
 [twitter]: https://twitter.com/JuanJuradoP
 [instagram]: https://www.instagram.com/juanjuradop/?hl=en
 [medium]: https://juanjuradop.medium.com/
 [linkedin]: https://www.linkedin.com/in/juanfjuradop/
-
-
-❤️ ❤️ ❤️ 
+[gmail]: mailto:juanjuradop@gmail.com
