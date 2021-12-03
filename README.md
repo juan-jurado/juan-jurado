@@ -20,6 +20,10 @@ I do not want to maintain the status quo. ¡Let’s create something great!.
 [![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
+
+[gmail]: <a href=»mailto:prueba@prueba.com»>Enviar email con HTML</a>
+
+
 ### **Stats and Tools**:
 
 <p align="center">
@@ -155,6 +159,6 @@ view rawgif hosted with ❤ by GitHub
 [instagram]: https://www.instagram.com/juanjuradop/?hl=en
 [medium]: https://juanjuradop.medium.com/
 [linkedin]: https://www.linkedin.com/in/juanfjuradop/
-[gmail]: href=»mailto:prueba@prueba.com»
+
 
 ❤️ ❤️ ❤️ 
