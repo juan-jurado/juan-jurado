@@ -21,7 +21,7 @@
 
 <br />
 <br />
-- 🔭 I'm currently working at [Globant][Globant] as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
+- 🔭 I'm currently working at [Globant][globant] as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
 <br />
 - 🌱 I'm currently learning low-level code (C++14) to improve my current robotic skills.
 <br />
