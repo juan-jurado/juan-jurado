@@ -30,6 +30,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 ### Skills: Tech Stack
 
 <br />
+
 [<img align="left" alt="yolo" height="30px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
 [<img align="left" alt="tensorflow" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
 [<img align="left" alt="keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" />][keras]
@@ -47,6 +48,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
 [<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
 [<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
+
 <br />
 
 ### Platforms
