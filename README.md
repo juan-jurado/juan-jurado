@@ -43,7 +43,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][c]
 [<img align="left" alt="ROS" height="15px" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />][ros]
 [<img align="left" alt="ROS2" height="30px" src="https://avatars3.githubusercontent.com/u/3979232?s=400&v=4" />][ros2]
-[<img align="left" alt="gazebo" height="30px" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />][gazebo]
+[<img align="left" alt="gazebo" height="30px" src="http://gazebosim.org/assets/gazebo_vert-af0a0ada204b42b6daca54e98766979e45e011ea22347ffe90580458476d26d6.png" />][gazebo]
 [<img align="left" alt="rviz" height="30px" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />][rviz]
 [<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
 [<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
