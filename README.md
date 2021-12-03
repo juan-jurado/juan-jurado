@@ -9,14 +9,13 @@
   
 ## 💻 I'm an engineer, developer, and entrepreneur!
 
-I'm EE (Electrical Engineer) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
+I'm from Colombia🇨🇴. I'm EE (Electrical Engineer🧠) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com 🤖 💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
 I do not want to maintain the status quo, ¡Let's create something great!🦾
 
 - 🔭 I'm currently working at [Globant][Globant] as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
 - 🌱 I'm currently learning low-level code (C++14) to improve my current robotic skills.
 - 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
-- ⚡ Fun fact: I used to play guitar, drums, and piano - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music while I was coding. I'm Pet-friendly (Father of two cats and two dogs). 
-
+- ⚡ Fun fact: I used to play guitar🎸 ,drums, and piano🎹 - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music🎧 while I was coding. I'm Pet-friendly (Father of two cats and two dogs).🐕🦮🐈🐈‍⬛ Also, I swim🏊, mountain bike🚵,, and travel around the world in my motorcycle.🏍️
 
 <br />
 
@@ -87,48 +86,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 </p>
 
 
-🤖
 
-💯
-💬
-👁️‍🗨️
-🙌
-
-🧠
-👀
-👨‍🎓
-👨‍🌾
-👨‍🔧
-🧑‍💻
-🦸
-🏊
-🚴
-🚵
-🧘
-🐶
-🐕
-🦮
-🐈 cat
-🐱 
-🐈‍⬛
-🌿
-🌲
-🪴 Potted Plant
-🍕 Pizza
-🍪 Cookie
-🍷 Wine Glass
-🏍️ Motorcycle
-🌈 Rainbow
-🏆 Trophy
-🎖️ Military Medal
-🥇 1st Place Medal
-🎸 Guitar
-🎹 Musical Keyboard
-🎧 Headphone
- Laptop
-⚙️ Gear
-🔝 Top Arrow
-🇨🇴 Flag: Colombia
 
 <!-- ---------------------------------------------------------------------- -->
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
