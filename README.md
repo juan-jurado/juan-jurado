@@ -11,11 +11,10 @@
 I'm EE (Electrical Engineer) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
 I do not want to maintain the status quo, ¡Let's create something great!🦾
 
-- 🔭 I’m currently working at [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
-- 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
-- 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
-- ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding. Pet-friendly (Father of two cats and two dogs). 
-
+- 🔭 I'm currently working at [Globant][Globant] as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
+- 🌱 I'm currently learning low-level code (C++14) to improve my current robotic skills.
+- 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
+- ⚡ Fun fact: I used to play guitar, drums, and piano - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music while I was coding. I'm Pet-friendly (Father of two cats and two dogs). 
 
 ### **Let's connect!**
 
@@ -28,65 +27,34 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 
 ### Skills: Tech Stack
 
-Yolo
+<br />
 [<img align="left" alt="yolo" height="30px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
-
-TensorFlow
 [<img align="left" alt="tensorflow" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
-
-keras
 [<img align="left" alt="keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" />][keras]
-
-Atlassian
 [<img align="left" alt="atlassian" height="30px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" />][atlassian]
-
-Deepstream
-
-Github
+[<img align="left" alt="deepstream" height="30px" src="https://d7umqicpi7263.cloudfront.net/img/product/da3af25f-a9f3-48c3-ace2-ce646a94f8cf/167fc368-c07f-4b8d-b5fd-90f2c3454662" />][deepstream]
 [<img align="left" alt="github" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
-
-Gitea
-VSCODE
+[<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gitea_Logo.svg" />][gitea]
 [<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
-
-Python
 [<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python]
-
-C++
 [<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][c]
-
-Jira
-Ros
 [<img align="left" alt="ROS" height="15px" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />][ros]
-
-Ros2
 [<img align="left" alt="ROS2" height="30px" src="https://avatars3.githubusercontent.com/u/3979232?s=400&v=4" />][ros2]
-
-Gazebo
 [<img align="left" alt="gazebo" height="30px" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />][gazebo]
-
-Rviz
 [<img align="left" alt="rviz" height="30px" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />][rviz]
-
-Opencv
 [<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
-
-FFMPEG
 [<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
-
-DOCKER
 [<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
 
-### **Platforms**
 <br />
 
-[<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
+### **Platforms**
+
+<br />
+[<img align="left" alt="nvidia" height="30px" src="https://miro.medium.com/max/700/1*46tz-SDJRkv16vXdz0TAWA.png" />][nvidia]
 [<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
 [<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
-[<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
-[<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
 [<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
-
 
 [realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
 [peplink]: https://www.peplink.com/
@@ -94,17 +62,10 @@ DOCKER
 [nvidia]: https://www.nvidia.com/es-la/
 [slamtec]: https://www.slamtec.com/en/
 [raspi]: https://www.raspberrypi.org/
-
 <br />
 
-
-
 Plataformas:
-Nvidia Jetson
-Raspberry
-IntelReal sense
-Slamtec
-Balena
+
 Azure IoT
 AWS
 Microsoft Azure
@@ -191,6 +152,8 @@ Microsoft Azure
 [github]: https://github.com/
 [ffmpeg]: https://ffmpeg.org/
 [atlassian]: https://www.atlassian.com
+[deepstream]: https://developer.nvidia.com/deepstream-sdk
+[gitea]: https://gitea.io/en-us/
 
 [yolo]: https://www.atlassian.com
 [keras]: https://keras.io/
