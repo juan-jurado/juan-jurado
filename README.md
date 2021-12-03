@@ -17,7 +17,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 - ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding. Pet-friendly (Father of two cats and two dogs). 
 
 
-Let's connect!
+### **Let's connect!**
 
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
@@ -25,73 +25,6 @@ Let's connect!
 [![Medium-name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
-
-### **Stats and Tools**:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=juan-jurado&count_private=true&show_icons=true&theme=onedark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
-</p>
-
-
-🤖
-
-💯
-💬
-👁️‍🗨️
-🙌
-
-🧠
-👀
-👨‍🎓
-👨‍🌾
-👨‍🔧
-🧑‍💻
-🦸
-🏊
-🚴
-🚵
-🧘
-🐶
-🐕
-🦮
-🐈 cat
-🐱 
-🐈‍⬛
-🌿
-🌲
-🪴 Potted Plant
-🍕 Pizza
-🍪 Cookie
-🍷 Wine Glass
-🏍️ Motorcycle
-🌈 Rainbow
-🏆 Trophy
-🎖️ Military Medal
-🥇 1st Place Medal
-🎸 Guitar
-🎹 Musical Keyboard
-🎧 Headphone
- Laptop
-⚙️ Gear
-🔝 Top Arrow
-🇨🇴 Flag: Colombia
-
-### Platforms
-[<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
-[<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
-[<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
-[<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
-[<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
-[<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
-
-
-[realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
-[peplink]: https://www.peplink.com/
-[balena]: https://www.balena.io/
-[nvidia]: https://www.nvidia.com/es-la/
-[slamtec]: https://www.slamtec.com/en/
-[raspi]: https://www.raspberrypi.org/
 
 ### Skills: Tech Stack
 
@@ -144,6 +77,27 @@ FFMPEG
 DOCKER
 [<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
 
+### **Platforms**
+<br />
+
+[<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
+[<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
+[<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
+[<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
+[<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
+[<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
+
+
+[realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
+[peplink]: https://www.peplink.com/
+[balena]: https://www.balena.io/
+[nvidia]: https://www.nvidia.com/es-la/
+[slamtec]: https://www.slamtec.com/en/
+[raspi]: https://www.raspberrypi.org/
+
+<br />
+
+
 
 Plataformas:
 Nvidia Jetson
@@ -154,6 +108,59 @@ Balena
 Azure IoT
 AWS
 Microsoft Azure
+
+
+
+### **Stats and Tools**:
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=juan-jurado&count_private=true&show_icons=true&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
+</p>
+
+
+🤖
+
+💯
+💬
+👁️‍🗨️
+🙌
+
+🧠
+👀
+👨‍🎓
+👨‍🌾
+👨‍🔧
+🧑‍💻
+🦸
+🏊
+🚴
+🚵
+🧘
+🐶
+🐕
+🦮
+🐈 cat
+🐱 
+🐈‍⬛
+🌿
+🌲
+🪴 Potted Plant
+🍕 Pizza
+🍪 Cookie
+🍷 Wine Glass
+🏍️ Motorcycle
+🌈 Rainbow
+🏆 Trophy
+🎖️ Military Medal
+🥇 1st Place Medal
+🎸 Guitar
+🎹 Musical Keyboard
+🎧 Headphone
+ Laptop
+⚙️ Gear
+🔝 Top Arrow
+🇨🇴 Flag: Colombia
 
 
 
