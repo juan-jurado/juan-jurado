@@ -25,6 +25,7 @@
 - ⚡ Fun fact: I used to play guitar🎸 ,drums, and piano🎹 - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music🎧 while I was coding. I'm Pet-friendly (Father of two cats and two dogs).🐕🦮🐈🐈‍⬛ Also, I swim🏊, mountain bike🚵,, and travel around the world in my motorcycle.🏍️
 </div>
 <br />
+
 ### Let's connect!
 
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
