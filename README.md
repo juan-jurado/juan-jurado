@@ -30,14 +30,15 @@ HOLA
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)][twitter]
-[![IG](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
-
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
+[![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Instagram-name](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Medium-name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
 [globant]: https://www.globant.com/
