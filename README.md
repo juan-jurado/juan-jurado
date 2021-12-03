@@ -97,17 +97,9 @@ Microsoft Azure
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-
-
-
-
-
-<!--
-**juan-jurado/juan-jurado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Globant [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
+- 🔭 I’m currently working at [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
 - 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
 - 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 - 🤔 I’m looking for help with IDK
@@ -126,7 +118,7 @@ Here are some ideas to get you started:
 Let's connect (flecha de abajo emoji)
 
 
--->
+
 
 Made with ❤
 <!-- ---------------------------------------------------------------------- -->
