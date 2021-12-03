@@ -13,24 +13,11 @@ I'm EE (Electrical Engineer) with strong background on machine learning and Deep
 Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover. 
 I do not want to maintain the status quo. ¡Let’s create something great!.
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-
-
-
-
-
-HOLA
-
-
-
-
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
 [![Instagram-name](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Medium-name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
 
 ### **Stats and Tools**:
 
@@ -38,11 +25,6 @@ HOLA
 <img src="https://github-readme-stats.vercel.app/api?username=juan-jurado&count_private=true&show_icons=true&theme=onedark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
 </p>
-
-
-HOLA
-
-
 
 
 🤖
