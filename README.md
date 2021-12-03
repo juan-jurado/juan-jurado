@@ -11,8 +11,7 @@
 ## 💻 I'm an engineer, developer, and entrepreneur!
 
 <div align="justify">
-  I'm EE (Electrical Engineer🧠) from Colombia🇨🇴 with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. I have experience as a self-driving cars engineer and embedded systems engineer at [Kiwibot][kiwibot] - 🤖 💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB).
-  [kiwibot]: https://www.kiwibot.com/
+  I'm EE (Electrical Engineer🧠) from Colombia🇨🇴 with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. I have experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com🤖💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB).
   <br />
   High interest in robotics and artificial intelligence to build autonomous machines. 
   <br />
@@ -22,7 +21,7 @@
 
 <br />
 <br />
-- 🔭 I'm currently working at [Globant][globant] as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
+- 🔭 I'm currently working at Globant.com as an IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs, and Transformers.
 <br />
 - 🌱 I'm currently learning low-level code (C++14) to improve my current robotic skills.
 <br />
