@@ -60,6 +60,8 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
 [<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
 [<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
+[<img align="left" alt="AzureIoT" height="30px" src="https://erwinstaal.nl/images/azure-iot-hub-450.png" />][azureiot]
+
 
 [realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
 [peplink]: https://www.peplink.com/
@@ -67,16 +69,9 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [nvidia]: https://www.nvidia.com/es-la/
 [slamtec]: https://www.slamtec.com/en/
 [raspi]: https://www.raspberrypi.org/
+[azureiot]: https://azure.microsoft.com/en-us/overview/iot/#overview
 
 <br />
-
-Plataformas:
-
-Azure IoT
-AWS
-Microsoft Azure
-
-
 
 ### **Stats and Tools**:
 
