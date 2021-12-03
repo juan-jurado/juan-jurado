@@ -17,7 +17,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 - 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 - ⚡ Fun fact: I used to play guitar, drums, and piano - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music while I was coding. I'm Pet-friendly (Father of two cats and two dogs). 
 
-
+  ---
 ### Let's connect!
 
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
@@ -27,6 +27,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 [![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 [![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
+  ---
 ### Skills: Tech Stack
 
 <br />
@@ -52,6 +53,7 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 
 <br />
 
+  ---
 ### Platforms
 
 <br />
@@ -73,11 +75,13 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 
 <br />
 
+  ---
 ### **Stats and Tools**:
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=juan-jurado&count_private=true&show_icons=true&theme=onedark" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 
@@ -123,14 +127,6 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 ⚙️ Gear
 🔝 Top Arrow
 🇨🇴 Flag: Colombia
-
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
-
-
 
 <!-- ---------------------------------------------------------------------- -->
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
