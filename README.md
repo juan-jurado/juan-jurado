@@ -8,8 +8,23 @@
   
 ## 💻 I'm an engineer, developer, and entrepreneur!
 
-I'm EE (Electrical Engineer) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
-I do not want to maintain the status quo. ¡ Let's create something great!.
+I'm EE (Electrical Engineer) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). High interest in robotics and artificial intelligence to build autonomous machines. Linux lover.
+I do not want to maintain the status quo, ¡Let's create something great!🦾
+
+- 🔭 I’m currently working at [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
+- 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
+- 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
+- ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding. Pet-friendly (Father of two cats and two dogs). 
+
+
+Let's connect!
+
+[![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
+[![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
+[![Instagram-name](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
+[![Medium-name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
+[![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 ### **Stats and Tools**:
 
@@ -20,12 +35,12 @@ I do not want to maintain the status quo. ¡ Let's create something great!.
 
 
 🤖
-💙
+
 💯
 💬
 👁️‍🗨️
 🙌
-🦾
+
 🧠
 👀
 👨‍🎓
@@ -63,23 +78,55 @@ I do not want to maintain the status quo. ¡ Let's create something great!.
 🇨🇴 Flag: Colombia
 
 
+
 Yolo
+[<img align="left" alt="yolo" height="30px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
+
 TensorFlow
+[<img align="left" alt="tensorflow" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />][tensorflow]
+
+keras
+[<img align="left" alt="keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1024px-Keras_logo.svg.png" />][keras]
+
+Atlassian
+[<img align="left" alt="atlassian" height="30px" src="https://seeklogo.com/images/A/atlassian-logo-DF2FCF6E4D-seeklogo.com.png" />][atlassian]
+
 Deepstream
-Nvidia Jetson
+
 Github
+[<img align="left" alt="github" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" />][github]
+
 Gitea
 VSCODE
+[<img align="left" alt="Visual Studio Code" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />][vscode]
+
 Python
+[<img align="left" alt="Python" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python]
+
 C++
+[<img align="left" alt="C++" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />][c]
+
 Jira
 Ros
+[<img align="left" alt="ROS" height="15px" src="https://camo.githubusercontent.com/8fbe45b3aa44949d5cb3ce7619f1e7bb3bea0630/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62622f526f735f6c6f676f2e737667" />][ros]
+
 Ros2
+[<img align="left" alt="ROS2" height="30px" src="https://avatars3.githubusercontent.com/u/3979232?s=400&v=4" />][ros2]
+
 Gazebo
+[<img align="left" alt="gazebo" height="30px" src="https://upload.wikimedia.org/wikipedia/en/1/13/Gazebo_logo.svg" />][gazebo]
+
 Rviz
+[<img align="left" alt="rviz" height="30px" src="https://store.yonohub.com/wp-content/uploads/2020/06/rviz.svg" />][rviz]
+
 Opencv
+[<img align="left" alt="opencv" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />][opencv]
+
 FFMPEG
+[<img align="left" alt="ffmpeg" height="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FFmpeg-Logo.svg/1280px-FFmpeg-Logo.svg.png" />][ffmpeg]
+
 DOCKER
+[<img align="left" alt="docker" height="30px" src="https://camo.githubusercontent.com/0af9f441e28f0f6acee28ca34e9ad438fd291fa3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34652f446f636b65725f253238636f6e7461696e65725f656e67696e652532395f6c6f676f2e737667" />][docker]
 
 
 Plataformas:
@@ -98,21 +145,7 @@ Microsoft Azure
 
 
 
-- 🔭 I’m currently working at [Globant][Globant] as a IoT Edge Engineer building AI applications based on real-time video analysis using Deepstream, CNNs and Transformers. 
-- 🌱 I’m currently learning low level code (C++14) to improve my current robotic skills.
-- 👯 I’m looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
-- 🤔 I’m looking for help with IDK
-- 💬 Ask me about 
-- ⚡ Fun fact: I used to play guitar, drums and piano - still learning. I love learning a lot of tech things (nerd emoji). I used to play deep house and viking music while I'm coding.
 
-
-Let's connect!
-[![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
-[![Twitter-name](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)][twitter]
-[![Instagram-name](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
-[![Medium-name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
-[![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![Gmail-name](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)][gmail]
 
 <!-- ---------------------------------------------------------------------- -->
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
@@ -122,3 +155,20 @@ Let's connect!
 [medium]: https://juanjuradop.medium.com/
 [linkedin]: https://www.linkedin.com/in/juanfjuradop/
 [gmail]: mailto:juanjuradop@gmail.com
+
+[vscode]: https://code.visualstudio.com/
+[python]: https://www.python.org/
+[c]: https://es.wikipedia.org/wiki/C%2B%2B
+[ros]: https://www.ros.org/
+[ros2]: https://index.ros.org/doc/ros2/
+[gazebo]: http://gazebosim.org/
+[rviz]: http://wiki.ros.org/rviz
+[opencv]: https://opencv.org/
+[docker]: https://www.docker.com/
+[github]: https://github.com/
+[ffmpeg]: https://ffmpeg.org/
+[atlassian]: https://www.atlassian.com
+
+[yolo]: https://www.atlassian.com
+[keras]: https://keras.io/
+[tensorflow]: https://www.tensorflow.org/
