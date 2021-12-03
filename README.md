@@ -2,7 +2,6 @@
 
 
 ![GitHub User's stars](https://img.shields.io/github/stars/juan-jurado?label=Start&style=social)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)][twitter]
 
