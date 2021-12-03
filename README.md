@@ -18,7 +18,8 @@ I do not want to maintain the status quo, ¡Let's create something great!🦾
 - ⚡ Fun fact: I used to play guitar, drums, and piano - still learning. I love discovering a lot of tech things (nerd emoji). I love deep house and Viking music while I was coding. I'm Pet-friendly (Father of two cats and two dogs). 
 
 
-  ---
+<br />
+
 ### Let's connect!
 
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
