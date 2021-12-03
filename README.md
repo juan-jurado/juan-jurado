@@ -1,10 +1,11 @@
 ## Hi there 👋, I'm Juan Jurado - aka [JJ][linkedin]
 
-### Internet of Things Edge Engineer at [Globant][Globant]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin]
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)][twitter]
 
-[![Stargazers repo roster for @juan-jurado/juan-jurado](https://reporoster.com/stars/juan-jurado)](https://github.com/juan-jurado/juan-jurado/stargazers)
+### Internet of Things Edge Engineer at [Globant][Globant]
   ---
-  
 ### I'm Entrepreneur, Developer, and a Teacher!
 
 I'm EE (Electrical Engineer) with strong background on machine learning and Deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. 
@@ -23,11 +24,6 @@ I do not want to maintain the status quo. ¡Let’s create something great!.
 HOLA
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=juan-jurado.juan-jurado)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)][linkedin]
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)][twitter]
-
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
 
 
 [![Youtube-name](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)][youtube]
@@ -35,13 +31,6 @@ HOLA
 [![Instagram-name](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)][instagram]
 [![Medium-name](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][medium]
 [![LinkedIn-name](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-
-[youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
-[globant]: https://www.globant.com/
-[twitter]: https://twitter.com/JuanJuradoP
-[instagram]: https://www.instagram.com/juanjuradop/?hl=en
-[medium]: https://juanjuradop.medium.com/
-[linkedin]: https://www.linkedin.com/in/juanfjuradop/
 
 
 ### **Stats and Tools**:
