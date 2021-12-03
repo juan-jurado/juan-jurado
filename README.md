@@ -77,7 +77,23 @@ Let's connect!
 🔝 Top Arrow
 🇨🇴 Flag: Colombia
 
+### Platforms
+[<img align="left" alt="nvidia" height="30px" src="https://cdn.iconscout.com/icon/free/png-512/nvidia-282591.png" />][nvidia]
+[<img align="left" alt="raspi" height="30px" src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" />][raspi]
+[<img align="left" alt="realsense" height="30px" src="https://www.mavis-imaging.com/media/image/e9/1e/24/Intel_RealSense_Logo_Color.png" />][realsense]
+[<img align="left" alt="slamtec" height="30px" src="https://www.slamtec.com/images/header-logo.png" />][slamtec]
+[<img align="left" alt="peplink" height="30px" src="https://seekvectorlogo.net/wp-content/uploads/2019/10/peplink-vector-logo.png" />][peplink]
+[<img align="left" alt="balena" height="30px" src="https://www.balena.io/docs/img/logo.svg" />][balena]
 
+
+[realsense]: https://www.intel.la/content/www/xl/es/architecture-and-technology/realsense-overview.html
+[peplink]: https://www.peplink.com/
+[balena]: https://www.balena.io/
+[nvidia]: https://www.nvidia.com/es-la/
+[slamtec]: https://www.slamtec.com/en/
+[raspi]: https://www.raspberrypi.org/
+
+### Skills: Tech Stack
 
 Yolo
 [<img align="left" alt="yolo" height="30px" src="https://img.favpng.com/5/13/4/yolo-object-detection-darknet-opencv-convolutional-neural-network-png-favpng-j7FKX339NgCi1RcH8Sbs5ecHS.jpg" />][yolo]
