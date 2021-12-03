@@ -11,7 +11,7 @@
 ## 💻 I'm an engineer, developer, and entrepreneur!
 
 <div align="justify">
-  I'm from Colombia🇨🇴. I'm EE (Electrical Engineer🧠) with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. Experience as a self-driving cars engineer and embedded systems engineer at Kiwibot.com 🤖 💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). 
+  I'm EE (Electrical Engineer🧠) from Colombia🇨🇴 with a strong background in machine learning and deep learning for AI solutions and robotics powered by embedded systems (ARM64) such as Jetson devices by NVIDIA. I have experience as a self-driving cars engineer and embedded systems engineer at [Kiwibot.com][kiwibot]🤖 💙 (self-driving robots for food delivery). Experience in computer vision, robotics, control, localization, path planning, sensor fusion, motion planning, CNNs/RNNs, and system integration using ROS I/ROS II. Experience in the hardware-software interface (I2C, UART, Analog/Digital signals, USB). 
   <br />
   High interest in robotics and artificial intelligence to build autonomous machines. 
   <br />
@@ -108,6 +108,7 @@
 [medium]: https://juanjuradop.medium.com/
 [linkedin]: https://www.linkedin.com/in/juanfjuradop/
 [gmail]: mailto:juanjuradop@gmail.com
+[kiwibot]: https://www.kiwibot.com/
 
 [vscode]: https://code.visualstudio.com/
 [python]: https://www.python.org/
