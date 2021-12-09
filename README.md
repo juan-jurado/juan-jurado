@@ -26,7 +26,7 @@
 <br />
 - 👯 I'm looking to collaborate on open source projects based on robotics and autonomous machines (AI at the edge + Robotics).
 <br />
-- ⚡ Fun fact: I used to play guitar🎸 ,drums, and piano🎹 - still learning. I love discovering a lot of tech things. I love deep house and Viking music🎧 while I was coding. I'm Pet-friendly (Father of two cats and two dogs).🐕🦮🐈🐈‍⬛ Also, I swim🏊, mountain bike🚵,, and travel around the world in my motorcycle.🏍️
+- ⚡ Fun fact: I used to play guitar🎸 ,drums, and piano🎹 - still learning. I love discovering a lot of tech things. I love deep house and Viking music🎧 while I'm coding. I'm Pet-friendly (Father of two cats and two dogs).🐕🦮🐈🐈‍⬛ Also, I swim🏊, mountain bike🚵,, and travel around the world in my motorcycle.🏍️
 </div>
 <br />
 
