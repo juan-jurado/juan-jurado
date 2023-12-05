@@ -25,6 +25,7 @@ Welcome to my coding universe 🌌! I’m all about making magic happen in Data 
   I do not want to maintain the status quo, ¡Let's create something great!🦾
 <br />
 <br />
+
 ### What's Up Now:
 - 🔭 Currently working on projects that integrate LLMs with practical, scalable backend solutions. It’s about making AI accessible and useful in everyday business scenarios.
 - 🌱 Learning never stops! I’m always up for new challenges and innovations in the world of AI and backend development.
