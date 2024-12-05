@@ -40,15 +40,6 @@ Welcome to my coding universe 🌌! I’m all about making magic happen in Data 
 
   ---
 
-
-### **Stats and Tools**:
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-jurado&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-jurado&layout=compact&theme=onedark" />
-
-</p>
-
 <!-- ---------------------------------------------------------------------- -->
 [youtube]: https://www.youtube.com/channel/UCV-iMJ7VnpGcIbytF-so8yw
 [globant]: https://www.globant.com/
